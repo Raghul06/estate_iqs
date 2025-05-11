@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623137483053",
+    "project_id": "fade-and-blade",
+    "storage_bucket": "fade-and-blade.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623137483053:android:9679983f7a57201ce7cba4",
+        "android_client_info": {
+          "package_name": "com.fade.blade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKjMGiD4nFkxoeLstaBgLlnrNT-Xx_P-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
